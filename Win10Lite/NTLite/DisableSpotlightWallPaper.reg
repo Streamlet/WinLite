@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+
+;在桌面上关闭聚焦图集、关闭所有Windows聚焦功能
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CloudContent]
+"DisableSpotlightCollectionOnDesktop"=dword:00000001
+"DisableWindowsSpotlightFeatures"=dword:00000001

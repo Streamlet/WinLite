@@ -1,0 +1,27 @@
+1、手工删除
+
+\inetpub（空目录）
+\ProgramData\regid.1991-06.com.microsoft（空目录）
+\ProgramData\ssh（空目录）
+\Program Files (x86)\Microsoft(\EdgeCore, EdgeUpdate)
+\Windows\InboxApps
+
+2、空间回收：除“系统自带Appx应用”外所有
+
+3、系统优化
+	任务栏
+		隐藏操作中心
+		始终显示所有图标和通知
+		占满时合并
+	开始菜单
+		不允许在开始菜单显示建议
+		关闭使用Windows时获取技巧和建议
+	Explorer
+		打开资源管理器时显示此电脑
+		显示所有文件扩展名
+		Shift右击显示在此处打开命令行窗口
+		隐藏此电脑中视频图片文档下载音乐桌面等文件夹
+	Internet Explorer
+		隐藏右上角笑脸反馈按钮
+	Windows 照片查看器
+		启用 Windows 照片查看器

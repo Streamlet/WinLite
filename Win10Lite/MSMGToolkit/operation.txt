@@ -1,0 +1,23 @@
+1、使用脚本移除应用列表和组件
+
+2、功能调整
+
+* [ 1]   禁止通过 Windows 更新自动更新驱动
+* [ 2]   禁用自动下载并安装第三方应用
+* [ 3]   禁用自动执行 Windows 升级
+* [ 4]   禁用 Cortana 应用
+  [ 5]   禁用下载文件夹自动按日期分组布局
+* [ 6]   禁用 Microsoft 用于 Windows 更新保留的存储空间
+* [ 7]   禁用 Windows Defender
+  [ 8]   禁用 Windows 防火墙
+* [ 9]   禁用 Windows SmartScreen
+* [10]   禁用 Windows 更新
+* [11]   启用完整 ResetBase 执行 DISM 映像清理
+* [12]   启用 Fraunhofer MP3 Professional Codec
+* [13]   启用 Windows 照片查看器
+* [14]   强制让 .NET 程序使用最新的 .NET Framework
+* [15]   隐藏任务栏 Cortana 图标
+* [16]   隐藏任务栏立即开会图标
+* [17]   隐藏任务栏资讯和兴趣
+* [18]   隐藏任务栏搜索栏
+* [19]   隐藏任务栏任务视图图标

@@ -1,0 +1,19 @@
+# Win10Lite
+
+基于 10.0.19045.6456
+
+zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso
+大小：6.68GB
+MD5：2E3EA8BA1CD3D814A2C9F70E2F667E99
+SHA1：452F8C85016FF85439D55B4AED766B0DB31D709E
+SHA256：D9B1AFE76231E3BF3C7E067864CDDCEE669085FA2FD8396CBB6154B11E0A2D3F
+
+移除：
+  * 所有预装 AppX
+  * 系统更新
+  * Defender
+  * Edge
+  * XBox
+  * 遥测、隐私相关组件
+
+OOBE阶段禁止联网
